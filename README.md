@@ -5,6 +5,14 @@ Verdant is 40% keyboard with OLED and rotary encoder
 - O-ring gaskets
 - Stacked acrylic case
 - Rgb underglow
+
+Changes from Verdant 0.1 to 0.2
+
+- More layout support (split space, ansi enter, 2U Lshift)
+- Plate
+- Smd rgb leds instead of strip
+- Acrylic legs
+
 - ### Pics
 <a href="https://imgur.com/CjAaG8n"><img src="https://i.imgur.com/CjAaG8n.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/gJyBlvI"><img src="https://i.imgur.com/gJyBlvI.jpg" title="source: imgur.com" /></a>
