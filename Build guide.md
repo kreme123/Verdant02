@@ -15,7 +15,7 @@
 
 ### Also
 - Soldering iron and solder
-- Hex screwdriver
+- Hex/Phillips screwdriver
 - Flush side cutters
 - ~50 MX style switches
 - 7u/6.25u and 2u PCB mount stabilizers
