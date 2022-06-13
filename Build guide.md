@@ -24,7 +24,7 @@
 ## Building
 
 Connect Pro Micro to computer and flash "verdant02_default.hex" firmware using qmk toolbox
-<a href="https://imgur.com/TLqzrHB"><img src="https://i.imgur.com/TLqzrHB.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/jdxeeJ3"><img src="https://i.imgur.com/jdxeeJ3.jpg" title="source: imgur.com" /></a>
 
 Solder diodes for all keys. Stripe on diode to square pad on pcb
 <a href="https://imgur.com/MtKJaaT"><img src="https://i.imgur.com/MtKJaaT.jpg" title="source: imgur.com" /></a>
