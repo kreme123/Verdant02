@@ -1,5 +1,5 @@
 # Build guide
-<a href="https://imgur.com/2Hsop8o"><img src="https://i.imgur.com/2Hsop8o.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/TLqzrHB"><img src="https://i.imgur.com/TLqzrHB.jpg" title="source: imgur.com" /></a>
 ## Materials
 - 17 x [M2x8mm screws](https://www.aliexpress.com/item/1005002655776515.html)
 - 3  x [M2x16mm screws](https://www.aliexpress.com/item/1005002655776515.html)
