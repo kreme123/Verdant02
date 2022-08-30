@@ -17,6 +17,11 @@ Changes from Verdant 0.1 to 0.2
 <a href="https://imgur.com/CjAaG8n"><img src="https://i.imgur.com/CjAaG8n.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/gJyBlvI"><img src="https://i.imgur.com/gJyBlvI.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/SKLAlS6"><img src="https://i.imgur.com/SKLAlS6.jpg" title="source: imgur.com" /></a>
+
+## 3dp case
+<a href="https://imgur.com/uMp8Jgp"><img src="https://i.imgur.com/uMp8Jgp.jpg" title="source: imgur.com" /></a>
+Unfortunately there's some flaws on 3dp case design, so I don't have plans to release files atm.
+
 - ### Pcb
 <a href="https://imgur.com/OcQM3kz"><img src="https://i.imgur.com/OcQM3kz.png" title="source: imgur.com" /></a>
 - ### Plate
